@@ -1,30 +1,274 @@
-# Hi there 👋
+👋 Ciao, sono [Il Tuo Nome]
 
-I'm Giovanni Raniolo, a passionate Web Developer with a background in musicology, music production, DJing, and live electronic performance. Currently, I'm transitioning into the world of web development, bringing my creative and technical skills to new projects.
+Benvenuto nel mio profilo GitHub!
+Sono uno sviluppatore 
+𝑟
+𝑢
+𝑜
+𝑙
+𝑜
+ruolo appassionato di 
+𝑡
+𝑒
+𝑐
+𝑛
+𝑜
+𝑙
+𝑜
+𝑔
+𝑖
+𝑒
+/
+𝑖
+𝑛
+𝑡
+𝑒
+𝑟
+𝑒
+𝑠
+𝑠
+𝑖
+tecnologie/interessi.
 
-## About Me
+🚀 About Me
 
-   🌟 **Interests**: Web development, music production, blockchain technology, and NFTs.  
-   
-   🌱 **Learning**: Full-stack web development.  
-   
-   🤝 **Collaborating**: Open to working on web development projects that blend creativity and technology.  
-   
-   📫 **Contact**: Reach out to me via [LinkedIn](https://www.linkedin.com/in/gianniraniolo/).  
-   
-   ⚡ **Fun Fact**: I created my first program on a C64 when I was just 9 years old, and my passion for technology has only grown since then!
+🎯 Mi occupo di: 
+𝑎
+𝑚
+𝑏
+𝑖
+𝑡
+𝑖
+𝑝
+𝑟
+𝑖
+𝑛
+𝑐
+𝑖
+𝑝
+𝑎
+𝑙
+𝑖
+,
+𝑒
+𝑠
+.
+𝑤
+𝑒
+𝑏
+𝑑
+𝑒
+𝑣
+𝑒
+𝑙
+𝑜
+𝑝
+𝑚
+𝑒
+𝑛
+𝑡
+,
+𝑎
+𝑢
+𝑡
+𝑜
+𝑚
+𝑎
+𝑧
+𝑖
+𝑜
+𝑛
+𝑒
+,
+𝑑
+𝑎
+𝑡
+𝑎
+𝑎
+𝑛
+𝑎
+𝑙
+𝑦
+𝑠
+𝑖
+𝑠
+ambitiprincipali,es.webdevelopment,automazione,dataanalysis
 
-## Skills
+💡 Mi piace imparare e sperimentare con: 
+𝑙
+𝑖
+𝑛
+𝑔
+𝑢
+𝑎
+𝑔
+𝑔
+𝑖
+/
+𝑓
+𝑟
+𝑎
+𝑚
+𝑒
+𝑤
+𝑜
+𝑟
+𝑘
+linguaggi/framework
 
-<div align="center">
+📍 Basato a: 
+𝑐
+𝑖
+𝑡
+𝑡
+𝑎
+ˋ
+/
+𝑝
+𝑎
+𝑒
+𝑠
+𝑒
+citt
+a
+ˋ
+/paese
 
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Next.js](https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=ffffff) | ![Tailwind CSS](https://img.icons8.com/?size=48&id=WoopfRcDj3RF&format=png&color=000000) | ![Sass](https://img.icons8.com/color/48/000000/sass.png) |
-|-----------------------------------------|-----------------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------|--------------------------------------------------------|
-| ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![Git](https://img.icons8.com/color/54/000000/git.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="48" alt="Redis"/> | <img src="https://w7.pngwing.com/pngs/410/265/png-transparent-digitalocean-icon-hd-logo.png" width="48" alt="DigitalOcean"/> |
+🧠 Attualmente sto lavorando su: 
+𝑝
+𝑟
+𝑜
+𝑔
+𝑒
+𝑡
+𝑡
+𝑜
+𝑜
+𝑠
+𝑘
+𝑖
+𝑙
+𝑙
+𝑐
+ℎ
+𝑒
+𝑠
+𝑡
+𝑎
+𝑖
+𝑠
+𝑣
+𝑖
+𝑙
+𝑢
+𝑝
+𝑝
+𝑎
+𝑛
+𝑑
+𝑜
+progettooskillchestaisviluppando
 
-</div>
+🤝 Aperto a collaborazioni su: 
+𝑡
+𝑖
+𝑝
+𝑜
+𝑙
+𝑜
+𝑔
+𝑖
+𝑒
+𝑑
+𝑖
+𝑝
+𝑟
+𝑜
+𝑔
+𝑒
+𝑡
+𝑡
+𝑖
+tipologiediprogetti
 
+🛠 Tech Stack
+Linguaggi
 
-## Let's Connect
+JavaScript • Python • TypeScript • Java • …
 
-Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/gianniraniolo/). I'm always excited to meet new people and explore collaborative opportunities!
+Framework / Librerie
+
+React • Node.js • Express • Django • …
+
+Tools
+
+Git • Docker • VS Code • Postman • Linux
+
+(Sostituisci con i tuoi reali)
+
+📂 Progetti in evidenza
+🔹 
+𝑁
+𝑜
+𝑚
+𝑒
+𝑃
+𝑟
+𝑜
+𝑔
+𝑒
+𝑡
+𝑡
+𝑜
+1
+NomeProgetto1
+
+Descrizione breve del progetto (cosa fa, perché esiste, tecnologie usate).
+👉 Repo: [link]
+
+🔹 
+𝑁
+𝑜
+𝑚
+𝑒
+𝑃
+𝑟
+𝑜
+𝑔
+𝑒
+𝑡
+𝑡
+𝑜
+2
+NomeProgetto2
+
+Descrizione breve.
+👉 Repo: [link]
+
+📊 GitHub Stats
+
+(Sostituisci TUOUSERNAME con il tuo username GitHub)
+
+🔗 Contatti
+
+🌐 Portfolio: 
+𝑙
+𝑖
+𝑛
+𝑘
+link
+
+💼 LinkedIn: 
+𝑙
+𝑖
+𝑛
+𝑘
+link
+
+📧 Email: 
+𝑒
+𝑚
+𝑎
+𝑖
+𝑙
+email
